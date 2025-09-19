@@ -14,5 +14,5 @@
 3. Missing fuel information or car type, such as hybrid, electric, or gas are associated with lower selling prices.
    
 #Content
-'Assignment11.1.ipynb' - Analysis of the Project
-'README.md' - Overview of the project 
+1. 'Assignment11.1.ipynb' - Analysis of the Project
+2. 'README.md' - Overview of the project 
